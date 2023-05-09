@@ -1,4 +1,7 @@
-// assets/js/main.js
+/**
+ * Shows Application - Main JavaScript
+ * Handles search, favorites, reviews, and UI interactions
+ */
 document.addEventListener('DOMContentLoaded', () => {
     // --- Search Functionality ---
     const searchForm = document.querySelector('.search-form');
