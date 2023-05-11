@@ -1,6 +1,9 @@
 <?php
+/**
+ * Shows Application Bootstrap
+ * Initializes the application environment and dependencies
+ */
 
-// Bootstrap file for the application
 require_once __DIR__ . '/vendor/autoload.php';
 
 // Load environment variables if .env file exists
