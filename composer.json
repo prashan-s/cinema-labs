@@ -1,6 +1,6 @@
 {
-    "name": "cinemalabs/educational-security-lab",
-    "description": "Educational vulnerable-by-design PHP movie application for learning web security",
+    "name": "shows/app",
+    "description": "A PHP web application for managing and discovering TV shows and movies",
     "type": "project",
     "require": {
         "php": ">=8.0",
